@@ -166,6 +166,7 @@
 | 156  | [基于Java+Springboot+vue的电子招投标管理系统(源代码+数据库+万字论文)](https://github.com/codegiteepro/onlineBiddingPublic) | https://github.com/codegiteepro/onlineBiddingPublic          |
 | 157  | [基于Java+Springboot+vue的粮食仓库管理系统(源代码+数据库+万字论文)](https://github.com/codegiteepro/granarySystemPublic) | https://github.com/codegiteepro/granarySystemPublic          |
 | 158  | [基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt)](https://github.com/codegiteepro/secondHandCarMallPublic) | https://github.com/codegiteepro/secondHandCarMallPublic      |
+| 159  | [基于Java+Springboot+vue的幼儿园管理系统(源代码+数据库+万字论文+ppt)](https://github.com/codegiteepro/kindergartenManagePublic) | https://github.com/codegiteepro/kindergartenManagePublic     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegiteepro/carRental-public) | https://github.com/codegiteepro/carRental-public             |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegiteepro/pms-public) | https://github.com/codegiteepro/pms-public                   |
@@ -200,6 +201,7 @@
 | 632  | [基于Java+ssm的宠物店商城系统(源代码+数据库)](https://github.com/codegiteepro/petShop3Public) | https://github.com/codegiteepro/petShop3Public               |
 | 633  | [基于Java+ssm的医院挂号系统(源代码+数据库+11000字论文+开题)](https://github.com/codegiteepro/hospitalRegistssmPublic) | https://github.com/codegiteepro/hospitalRegistssmPublic      |
 | 634  | [基于Java+SSM的校园快递物流管理系统(源代码+数据库+11000字论文)](https://github.com/codegiteepro/schoolExpressPublic) | https://github.com/codegiteepro/schoolExpressPublic          |
+| 635  | [基于Java+ssm的仓库管理系统(源代码+数据库)](https://github.com/codegiteepro/warehouseManagePublic) | https://github.com/codegiteepro/warehouseManagePublic        |
 
 ## 接毕业设计和论文
 
