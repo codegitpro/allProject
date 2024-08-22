@@ -169,6 +169,8 @@
 | 159  | [基于Java+Springboot+vue的幼儿园管理系统(源代码+数据库+万字论文+ppt)](https://github.com/codegitpro/kindergartenManagePublic) | https://github.com/codegitpro/kindergartenManagePublic       |
 | 160  | [基于Java+Springboot+vue的高校竞赛管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/collegeCompetitionManagePublic) | https://github.com/codegitpro/collegeCompetitionManagePublic |
 | 161  | [基于Java+Springboot+vue+微信小程序的校园论坛二手闲置系统(源代码+数据库+万字论文)](https://github.com/codegitpro/campusSecondTradForumPublic) | https://github.com/codegitpro/campusSecondTradForumPublic    |
+| 162  | [基于Java+Springboot的高校教学管理系统(源代码+数据库+万字论文+ppt)](https://github.com/codegitpro/teachingManagePublic) | https://github.com/codegitpro/teachingManagePublic           |
+| 163  | [基于Java+Springboot的景区旅游门票管理系统(源代码+数据库)](https://github.com/codegitpro/tourismvue4Public) | https://github.com/codegitpro/tourismvue4Public              |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
