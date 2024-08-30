@@ -136,7 +136,7 @@
 | 126  | [基于Java+Springboot+Vue的二手交易商城管理系统(源代码+数据库)](https://github.com/codegitpro/secondShopPublic) | https://github.com/codegitpro/secondShopPublic               |
 | 127  | [基于Java+Springboot+Vue的商城管理系统(源代码+数据库+11000字论文)](https://github.com/codegitpro/mallvuePublic) | https://github.com/codegitpro/mallvuePublic                  |
 | 128  | [基于Java+Springboot+Vue的共享单车租赁管理系统(源代码+数据库)](https://github.com/codegitpro/bikeManagePublic) | https://github.com/codegitpro/bikeManagePublic               |
-| 129  | [基于Java+Springboot+thymeleaf的物业管理系统(源代码+数据库)](https://github.com/codegitpro/cummunityestatePublic) | https://github.com/codegitpro/cummunityestatePublic          |
+| 129  | [基于Java+Springboot+thymeleaf的物业管理系统(源代码+数据库+12000字论文+开题+ppt)](https://github.com/codegitpro/cummunityestatePublic) | https://github.com/codegitpro/cummunityestatePublic          |
 | 130  | [基于Java+Springboot+Vue的景区旅游门票管理系统](https://github.com/codegitpro/tourismvue2Public) | https://github.com/codegitpro/tourismvue2Public              |
 | 131  | [基于Java+Springboot+Vue的餐厅点餐系统(源代码+数据库+4000字文档)](https://github.com/codegitpro/orderFoodAppPublic) | https://github.com/codegitpro/orderFoodAppPublic             |
 | 132  | [基于Java+Springboot+Vue的自习室座位预约小程序管理系统(源代码+数据库)](https://github.com/codegitpro/roomAppointmentAppPublic) | https://github.com/codegitpro/roomAppointmentAppPublic       |
@@ -148,7 +148,7 @@
 | 138  | [基于Java+Springboot+Vue的医院预约挂号小程序(源代码+数据库)](https://github.com/codegitpro/hospitalRegister2Public) | https://github.com/codegitpro/hospitalRegister2Public        |
 | 139  | [基于Java+Springboot+Vue的农产品销售商城(源代码+数据库+万字论文)](https://github.com/codegitpro/agriculturalProductMallPullic) | https://github.com/codegitpro/agriculturalProductMallPullic  |
 | 140  | [基于Java+Springboot+Vue的景区旅游购票管理系统(源代码+数据库+8000字文档)](https://github.com/codegitpro/tourismvue3Public) | https://github.com/codegitpro/tourismvue3Public              |
-| 141  | [基于Java+Springboot+Vue的物业管理系统(源代码+数据库)](https://github.com/codegitpro/estatevuePublic) | https://github.com/codegitpro/estatevuePublic                |
+| 141  | [基于Java+Springboot+Vue的物业管理系统(源代码+数据库+万字论文+ppt)](https://github.com/codegitpro/estatevuePublic) | https://github.com/codegitpro/estatevuePublic                |
 | 142  | [基于Java+Springboot+Vue的汉服文化平台网站系统(源代码+数据库+万字论文)](https://github.com/codegitpro/hanfushopPublic) | https://github.com/codegitpro/hanfushopPublic                |
 | 143  | [基于Java+Springboot+Vue的健身房管理系统(源代码+数据库+12000字论文)](https://github.com/codegitpro/gymManagePublic) | https://github.com/codegitpro/gymManagePublic                |
 | 144  | [基于Java+Springboot+Vue的商城小程序(源代码+数据库)](https://github.com/codegitpro/mallShopwxPublic) | https://github.com/codegitpro/mallShopwxPublic               |
@@ -170,9 +170,11 @@
 | 160  | [基于Java+Springboot+vue的高校竞赛管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/collegeCompetitionManagePublic) | https://github.com/codegitpro/collegeCompetitionManagePublic |
 | 161  | [基于Java+Springboot+vue+微信小程序的校园论坛二手闲置系统(源代码+数据库+万字论文)](https://github.com/codegitpro/campusSecondTradForumPublic) | https://github.com/codegitpro/campusSecondTradForumPublic    |
 | 162  | [基于Java+Springboot的高校教学管理系统(源代码+数据库+万字论文+ppt)](https://github.com/codegitpro/teachingManagePublic) | https://github.com/codegitpro/teachingManagePublic           |
-| 163  | [基于Java+Springboot的景区旅游门票管理系统(源代码+数据库)](https://github.com/codegitpro/tourismvue4Public) | https://github.com/codegitpro/tourismvue4Public              |
+| 163  | [基于Java+Springboot的景区旅游门票管理系统(源代码+数据库+开题+ppt+2万字论文)](https://github.com/codegitpro/tourismvue4Public) | https://github.com/codegitpro/tourismvue4Public              |
 | 164  | [基于Java+Springboot+vue3的汽车租赁管理系统(源代码+数据库)](https://github.com/codegitpro/carRental2Public) | https://github.com/codegitpro/carRental2Public               |
 | 165  | [基于Java+Springboot+vue3的二手房交易管理系统(源代码+数据库+11000字论文)](https://github.com/codegitpro/secondHandHousePublic) | https://github.com/codegitpro/secondHandHousePublic          |
+| 166  | [基于Java+Springboot+vue3的流浪宠物救助管理小程序(源代码+数据库)](https://github.com/codegitpro/petManagewxPublic) | https://github.com/codegitpro/petManagewxPublic              |
+| 167  | [基于Java+Springboot+vue3+小程序的物业管理系统小程序(源代码+数据库+万字论文+文献综述)](https://github.com/codegitpro/estateappPublic) | https://github.com/codegitpro/estateappPublic                |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
