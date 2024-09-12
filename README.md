@@ -179,6 +179,8 @@
 | 169  | [基于Java+Springboot+vue3的餐厅点餐管理系统(源代码+数据库)](https://github.com/codegitpro/onlineOrderPublic) | https://github.com/codegitpro/onlineOrderPublic              |
 | 170  | [基于Java+Springboot+vue3+小程序的房屋租赁小程序系统(源代码+数据库)](https://github.com/codegitpro/houserentwxPublic) | https://github.com/codegitpro/houserentwxPublic              |
 | 171  | [基于Java+Springboot+vue3+小程序的宠物店小程序系统(源代码+数据库)](https://github.com/codegitpro/petshopwxPublic) | https://github.com/codegitpro/petshopwxPublic                |
+| 172  | [基于Java+Springboot+vue的智能景区旅游规划管理系统(源代码+数据库)](https://github.com/codegitpro/tourismvue5Public) | https://github.com/codegitpro/tourismvue5Public              |
+| 173  | [基于Java+Springboot+vue3的酒店民宿管理系统(源代码+数据库)](https://github.com/codegitpro/hotelHomestayPublic) | https://github.com/codegitpro/hotelHomestayPublic            |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
