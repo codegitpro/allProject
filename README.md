@@ -187,6 +187,8 @@
 | 177  | [基于Java+Springboot+vue3的古树管理系统(源代码+数据库)](https://github.com/codegitpro/banyanTreeManagePublic) | https://github.com/codegitpro/banyanTreeManagePublic         |
 | 178  | [基于Java+Springboot+vue的智能家具管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/smartHomePublic) | https://github.com/codegitpro/smartHomePublic                |
 | 179  | [基于Java+Springboot+vue的智能交通管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/smartTransportationPublic) | https://github.com/codegitpro/smartTransportationPublic      |
+| 180  | [基于Java+Springboot+vue的校园二手交易小程序(源代码+数据库+万字论文)](https://github.com/codegitpro/campusServicesPublic) | https://github.com/codegitpro/campusServicesPublic           |
+| 181  | [基于Java+Springboot+vue3的潮鞋交易管理系统(源代码+数据库+开题+万字论文)]() | https://github.com/codegitpro/trendyShoeMallPublichttps://github.com/codegitpro/trendyShoeMallPublic |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
