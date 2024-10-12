@@ -189,7 +189,7 @@
 | 179  | [基于Java+Springboot+vue的智能交通管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/smartTransportationPublic) | https://github.com/codegitpro/smartTransportationPublic      |
 | 180  | [基于Java+Springboot+vue的校园二手交易小程序(源代码+数据库+万字论文)](https://github.com/codegitpro/campusServicesPublic) | https://github.com/codegitpro/campusServicesPublic           |
 | 181  | [基于Java+Springboot+vue3的潮鞋交易管理系统(源代码+数据库+开题+万字论文)](https://github.com/codegitpro/trendyShoeMallPublic) | https://github.com/codegitpro/trendyShoeMallPublic           |
-| 182  | [基于Java+Springboot+vue3的河道治理管理系统(源代码+数据库+开题+万字论文)](https://github.com/codegitpro/rivermanagePublic) | https://github.com/codegitpro/rivermanagePublic              |
+| 182  | [基于Java+Springboot+vue3的河道治理管理系统(源代码+数据库)](https://github.com/codegitpro/rivermanagePublic) | https://github.com/codegitpro/rivermanagePublic              |
 | 183  | [基于Java+Springboot+vue的旅游小程序系统(源代码+数据库)](https://github.com/codegitpro/tourismwechatPublic) | https://github.com/codegitpro/tourismwechatPublic            |
 | 184  | [基于Java+Springboot+vue3的企业信用信息管理系统(源代码+数据库)](https://github.com/codegitpro/corporateCreditPublic) | https://github.com/codegitpro/corporateCreditPublic          |
 | 185  | [基于Java+Springboot+vue3+小程序的校园网上商店小程序系统(源代码+数据库)](https://github.com/codegitpro/shopwechatPublic) | https://github.com/codegitpro/shopwechatPublic               |
