@@ -199,6 +199,8 @@
 | 189  | [基于Java+Springboot+vue的自动售水机管理系统(源代码+数据库+13000字论文+任务书)](https://github.com/codegitpro/waterVendingManagePublic) | https://github.com/codegitpro/waterVendingManagePublic       |
 | 190  | [基于Java+Springboot+vue的景区旅游推荐管理系统(源代码+数据库+7000字论文)](https://github.com/codegitpro/travelRecommendPublic) | https://github.com/codegitpro/travelRecommendPublic          |
 | 191  | [基于Java+Springboot+vue的电子产品商城管理系统(源代码+数据库)](https://github.com/codegitpro/electronicProductMallPublic) | https://github.com/codegitpro/electronicProductMallPublic    |
+| 192  | [基于Java+Springboot+vue的个人博客管理系统(源代码+数据库+万字论文+开题+任务书)](https://github.com/codegitpro/personalBlogPublic) | https://github.com/codegitpro/personalBlogPublic             |
+| 193  | [基于Java+Springboot+vue的物业管理系统(源代码+数据库)](https://github.com/codegitpro/propertyManagePublic) | https://github.com/codegitpro/propertyManagePublic           |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
