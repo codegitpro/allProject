@@ -217,6 +217,8 @@
 | 207  | [基于Java+Springboot+vue3的运动健康小程序系统(源代码+数据库+万字论文)](https://github.com/codegitpro/sportsRecordPublic) | https://github.com/codegitpro/sportsRecordPublic             |
 | 208  | [基于Java+Springboot的物流管理系统(源代码+数据库+万字论文+开题)](https://github.com/codegitpro/logisticsManage2Public) | https://github.com/codegitpro/logisticsManage2Public         |
 | 209  | [基于Java+Springboot+vue3的助农平台系统(源代码+数据库)](https://github.com/codegitpro/agriculturalAssistancePlatformPublic) | https://github.com/codegitpro/agriculturalAssistancePlatformPublic |
+| 210  | [基于Java+Springboot+vue3的中国历史文化街区管理系统(源代码+数据库)](https://github.com/codegitpro/historicDistrictPublic) | https://github.com/codegitpro/historicDistrictPublic         |
+| 211  | [基于Java+Springboot+vue3的图书商城系统(源代码+数据库+开题+任务书+12000字论文)](https://github.com/codegitpro/bookManager2Public) | https://github.com/codegitpro/bookManager2Public             |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
