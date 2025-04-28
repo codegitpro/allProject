@@ -223,6 +223,8 @@
 | 213  | [基于Java+Springboot+vue3的景区旅游管理系统(源代码+数据库)](https://github.com/codegitpro/tourismvue6Public) | https://github.com/codegitpro/tourismvue6Public              |
 | 214  | [基于Java+Springboot+vue的学生社团管理系统(源代码+数据库+13000字论文+开题+文献综述)](https://github.com/codegitpro/associationManage3Public) | https://github.com/codegitpro/associationManage3Public       |
 | 215  | [基于python+Django+vue的新闻推荐系统(源代码+数据库)](https://github.com/codegitpro/newsRecommendPublic) | https://github.com/codegitpro/newsRecommendPublic            |
+| 216  | [基于Java+Springboot+vue3的非遗文创电商系统(源代码+数据库)](https://github.com/codegitpro/legacyCulturalPublic) | https://github.com/codegitpro/legacyCulturalPublic           |
+| 217  | [基于python+Django+vue的房屋租赁系统(源代码+数据库+万字论文)](https://github.com/codegitpro/houserentPythonPublic) | https://github.com/codegitpro/houserentPythonPublic          |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
