@@ -239,6 +239,8 @@
 | 229  | [基于Java+Springboot+vue的法律案件管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/legalCasesManagePublic) | https://github.com/codegitpro/legalCasesManagePublic         |
 | 230  | [基于python+爬虫+vue的豆瓣影视数据可视化系统(源代码+数据库+15000字论文+开题+答辩ppt)](https://github.com/codegitpro/movieBigDataScreen2Public) | https://github.com/codegitpro/movieBigDataScreen2Public      |
 | 231  | [基于Java+Springboot+vue3的海洋环境科普保护平台(源代码+数据库)](https://github.com/codegitpro/marineEnvSciencePopularizaPublic) | https://github.com/codegitpro/marineEnvSciencePopularizaPublic |
+| 232  | [基于python+Django+vue的图书管理系统(源代码+数据库)](https://github.com/codegitpro/bookmanagePythonPublic) | https://github.com/codegitpro/bookmanagePythonPublic         |
+| 233  | [基于python+Django+vue的网约车管理系统(源代码+数据库+18000字论文+开题+任务书)](https://github.com/codegitpro/onlineTaxiPublic) | https://github.com/codegitpro/onlineTaxiPublic               |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
