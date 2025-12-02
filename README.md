@@ -253,6 +253,10 @@
 | 243  | [基于Java+Springboot+vue3+小程序的老年人健康管理小程序(源代码+数据库)](https://github.com/codegitpro/elderlyHealthManage) | https://github.com/codegitpro/elderlyHealthManage            |
 | 244  | [基于Java+Springboot+vue+AI智能的宠物之家系统(源代码+数据库+2万字论文+任务书)](https://github.com/codegitpro/petFamily) | https://github.com/codegitpro/petFamily                      |
 | 245  | [基于Java+Springboot+vue的外卖点餐系统(源代码+数据库+19000字论文+ppt)](https://github.com/codegitpro/orderFood3) | https://github.com/codegitpro/orderFood3                     |
+| 246  | [基于Java+Springboot+vue3的宠物之家系统(源代码+数据库+万字论文+任务书)](https://github.com/codegitpro/petHome) | https://github.com/codegitpro/petHome                        |
+| 247  | [基于Java+Springboot+vue3的农村随访系统(源代码+数据库)](https://github.com/codegitpro/ruralFollowUp) | https://github.com/codegitpro/ruralFollowUp                  |
+| 248  | [基于Java+Springboot+vue的博物馆系统(源代码+数据库+开发文档)](https://github.com/codegitpro/museum) | https://github.com/codegitpro/museum                         |
+| 249  | [基于Java+Springboot+vue3的点餐系统(源代码+数据库+开题报告+任务书+11000字论文)](https://github.com/codegitpro/orderFood4) | https://github.com/codegitpro/orderFood4                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
