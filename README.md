@@ -71,13 +71,13 @@
 | 061  | [基于springboot小区物业系统(源代码+数据库)](https://github.com/codegitpro/propertyPublic) | https://github.com/codegitpro/propertyPublic                 |
 | 062  | [基于springboot+vue高校就业系统(源代码+数据库)](https://github.com/codegitpro/graduateEmploymentPublic) | https://github.com/codegitpro/graduateEmploymentPublic       |
 | 063  | [基于springboot快递代拿系统(源代码+数据库)](https://github.com/codegitpro/express-public) | https://github.com/codegitpro/express-public                 |
-| 064  | [基于springboot+vue房屋中介系统(源代码+数据库+14000字论文)](https://github.com/codegitpro/houseMediumPublic) | https://github.com/codegitpro/houseMediumPublic              |
+| 064  | [基于springboot+vue房屋中介系统(源代码+数据库+任务书+14000字论文)](https://github.com/codegitpro/houseMediumPublic) | https://github.com/codegitpro/houseMediumPublic              |
 | 065  | 基于springboot+vue高校文档系统(源代码+数据库+报告)           |                                                              |
 | 066  | [基于springboot+vue医院hrp系统(源代码+数据库+16000字论文)](https://github.com/codegitpro/hospitalMaterialsPublic) | https://github.com/codegitpro/hospitalMaterialsPublic        |
 | 067  | [基于springboot+vue校园点餐(源代码+数据库)](https://github.com/codegitpro/orderFood2Public) | https://github.com/codegitpro/orderFood2Public               |
 | 068  | [基于springboot+vue图书馆座位预约(源代码+数据库)](https://github.com/codegitpro/seatAppointPublic) | https://github.com/codegitpro/seatAppointPublic              |
 | 069  | 基于springboot+vue小区物业(源代码+数据库)                    |                                                              |
-| 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+13000字论文)](https://github.com/codegitpro/psychlolgyCounselPublic) | https://github.com/codegitpro/psychlolgyCounselPublic        |
+| 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+开题+任务书+13000字论文+ppt)](https://github.com/codegitpro/psychlolgyCounselPublic) | https://github.com/codegitpro/psychlolgyCounselPublic        |
 | 071  | [基于springboot+vue的房屋租赁系统(源代码+数据库+14000字论文+开题任务书)](https://github.com/codegitpro/houserentVuePublic) | https://github.com/codegitpro/houserentVuePublic             |
 | 072  | [基于springboot+vue的酒店预订管理系统(源代码+数据库+11000字论文+开题)](https://github.com/codegitpro/hotelVuePublic) | https://github.com/codegitpro/hotelVuePublic                 |
 | 073  | 基于springboot+vue的网上商城 (源代码+数据库)可改为任意产品的商城 |                                                              |
@@ -257,6 +257,8 @@
 | 247  | [基于Java+Springboot+vue3的农村随访系统(源代码+数据库)](https://github.com/codegitpro/ruralFollowUp) | https://github.com/codegitpro/ruralFollowUp                  |
 | 248  | [基于Java+Springboot+vue的博物馆系统(源代码+数据库+开发文档)](https://github.com/codegitpro/museum) | https://github.com/codegitpro/museum                         |
 | 249  | [基于Java+Springboot+vue3的点餐系统(源代码+数据库+开题报告+任务书+11000字论文)](https://github.com/codegitpro/orderFood4) | https://github.com/codegitpro/orderFood4                     |
+| 250  | [基于Java+Springboot+vue3+协同过滤推荐算法的学习平台(源代码+数据库)](https://github.com/codegitpro/studyExams) | https://github.com/codegitpro/studyExams                     |
+| 251  | [基于Java+Springboot+vue3的海底捞客户管理系统(源代码+数据库+开题+任务书)](https://github.com/codegitpro/haidilaoCustomerManage) | https://github.com/codegitpro/haidilaoCustomerManage         |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
