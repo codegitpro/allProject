@@ -261,6 +261,8 @@
 | 251  | [基于Java+Springboot+vue3的海底捞客户管理系统(源代码+数据库+开题+任务书)](https://github.com/codegitpro/haidilaoCustomerManage) | https://github.com/codegitpro/haidilaoCustomerManage         |
 | 252  | [基于Java+Springboot+vue3+协同过滤推荐算法的农产品销售系统(源代码+数据库+2万字论文)](https://github.com/codegitpro/agriculturalProductMall2) | https://github.com/codegitpro/agriculturalProductMall2       |
 | 253  | [基于Java+Springboot+vue3+协同过滤推荐算法的传统服饰文化平台(源代码+数据库+任务书+12000字论文)](https://github.com/codegitpro/traditionalClothing) | https://github.com/codegitpro/traditionalClothing            |
+| 254  | [基于Java+Springboot+vue的动物园系统(源代码+数据库+万字论文)](https://github.com/codegitpro/wildAnimal) | https://github.com/codegitpro/wildAnimal                     |
+| 255  | [基于Java+Springboot+vue3的暑期学生实习打卡系统(源代码+数据库)](https://github.com/codegitpro/internshipCheckIn) | https://github.com/codegitpro/internshipCheckIn              |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
