@@ -265,6 +265,8 @@
 | 255  | [基于Java+Springboot+vue3的暑期学生实习打卡系统(源代码+数据库)](https://github.com/codegitpro/internshipCheckIn) | https://github.com/codegitpro/internshipCheckIn              |
 | 256  | [基于Java+Springboot+vue的校园跑腿小程序(源代码+数据库)](https://github.com/codegitpro/runErrands) | https://github.com/codegitpro/runErrands                     |
 | 257  | [基于Java+Springboot+vue3的高校招投标系统(源代码+数据库+开题)](https://github.com/codegitpro/universityBidding) | https://github.com/codegitpro/universityBidding              |
+| 258  | [基于Java+Springboot+vue的在线学习系统(源代码+数据库+万字论文)](https://github.com/codegitpro/onlineLearning2) | https://github.com/codegitpro/onlineLearning2                |
+| 259  | [基于Java+Springboot+vue3工单管理系统的设计与实现(源代码+数据库+开题报告)](https://github.com/codegitpro/workOrderManage) | https://github.com/codegitpro/workOrderManage                |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
