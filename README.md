@@ -156,13 +156,13 @@
 | 146  | [基于Java+Springboot+vue+uniapp的景区旅游购票小程序(源代码+数据库+9000字论文)](https://github.com/codegitpro/touristTicketsPublic) | https://github.com/codegitpro/touristTicketsPublic           |
 | 147  | [基于Java+Springboot的手机维修管理系统(源代码+数据库)](https://github.com/codegitpro/mobileRepairSysPublic) | https://github.com/codegitpro/mobileRepairSysPublic          |
 | 148  | [基于Java+Springboot+vue的汽车维修管理系统(源代码+数据库+13000字论文)](https://github.com/codegitpro/carRepairSystemPublic) | https://github.com/codegitpro/carRepairSystemPublic          |
-| 149  | [基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)](https://github.com/codegitpro/gameForumMallSysPublic) | https://github.com/codegitpro/gameForumMallSysPublic         |
+| 149  | [基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文+ppt)](https://github.com/codegitpro/gameForumMallSysPublic) | https://github.com/codegitpro/gameForumMallSysPublic         |
 | 150  | [基于Java+Springboot+vue的体育运动品商城系统(源代码+数据库+12000字论文)](https://github.com/codegitpro/sportMallPublic) | https://github.com/codegitpro/sportMallPublic                |
 | 151  | [基于Java+Springboot+vue的物业管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/estateManage3Public) | https://github.com/codegitpro/estateManage3Public            |
 | 152  | [基于Java+Springboot+vue+小程序的个人健康管理系统小程序(源代码+数据库+15000字论文)](https://github.com/codegitpro/personHealthManagePublic) | https://github.com/codegitpro/personHealthManagePublic       |
 | 153  | [基于Java+Springboot+小程序的校园维修管理系统小程序(源代码+数据库)](https://github.com/codegitpro/schoolRepairPublic) | https://github.com/codegitpro/schoolRepairPublic             |
 | 154  | [基于Java+Springboot+vue的社团管理系统(源代码+数据库+9000字论文)](https://github.com/codegitpro/associationManagePublic) | https://github.com/codegitpro/associationManagePublic        |
-| 155  | [基于Java+Springboot+vue的课堂考勤管理系统(源代码+数据库+11000字论文)](https://github.com/codegitpro/classAttendancePublic) | https://github.com/codegitpro/classAttendancePublic          |
+| 155  | [基于Java+Springboot+vue的课堂考勤管理系统(源代码+数据库+11000字论文+开题)](https://github.com/codegitpro/classAttendancePublic) | https://github.com/codegitpro/classAttendancePublic          |
 | 156  | [基于Java+Springboot+vue的电子招投标管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/onlineBiddingPublic) | https://github.com/codegitpro/onlineBiddingPublic            |
 | 157  | [基于Java+Springboot+vue的粮食仓库管理系统(源代码+数据库+万字论文)](https://github.com/codegitpro/granarySystemPublic) | https://github.com/codegitpro/granarySystemPublic            |
 | 158  | [基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt+开题)](https://github.com/codegitpro/secondHandCarMallPublic) | https://github.com/codegitpro/secondHandCarMallPublic        |
@@ -275,6 +275,8 @@
 | 265  | [基于Springboot+vue3的新能源充电桩管理系统(源代码+数据库+开题)](https://github.com/codegitpro/carParkApp) | https://github.com/codegitpro/carParkApp                     |
 | 266  | [基于Springboot+Vue3的共享单车管理系统(源代码+数据库)](https://github.com/codegitpro/sharedBikeManage2) | https://github.com/codegitpro/sharedBikeManage2              |
 | 267  | [基于Springboot+vue3+小程序的医院挂号系统(源代码+数据库)](https://github.com/codegitpro/hospitalRegistrationApplet2) | https://github.com/codegitpro/hospitalRegistrationApplet2    |
+| 268  | [基于Springboot+Vue的教务管理系统(源代码+数据库)](https://github.com/codegitpro/universityEducation) | https://github.com/codegitpro/universityEducation            |
+| 269  | [基于python+深度学习+YOLOV8的交通标志识别系统(源代码+数据库+报告)](https://github.com/codegitpro/trafficSignDetection) | https://github.com/codegitpro/trafficSignDetection           |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
