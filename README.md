@@ -279,6 +279,8 @@
 | 269  | [基于python+深度学习+YOLOV8的交通标志识别系统(源代码+数据库+报告)](https://github.com/codegitpro/trafficSignDetection) | https://github.com/codegitpro/trafficSignDetection           |
 | 270  | [基于Springboot+Vue的wms仓库管理系统(源代码+数据库)](https://github.com/codegitpro/warehouse2) | https://github.com/codegitpro/warehouse2                     |
 | 271  | [基于python+深度学习+YOLOV7的车牌识别系统(源代码+数据库+3万字论文)](https://github.com/codegitpro/licensePlateRecognition) | https://github.com/codegitpro/licensePlateRecognition        |
+| 272  | [基于Springboot+vue+小程序的旧物回收系统(源代码+数据库+开题+任务书+13000字论文+答辩ppt)](https://github.com/codegitpro/oldClothesRecycling) | https://github.com/codegitpro/oldClothesRecycling            |
+| 273  | [基于SpringBoot+Vue3停车场管理系统带支沙箱支付(源代码+数据库)](https://github.com/codegitpro/carParkApp) | https://github.com/codegitpro/carParkApp                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
