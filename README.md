@@ -287,6 +287,8 @@
 | 277  | [基于SpringBoot+Vue3健康生活平台(源代码+数据库+开题+中期报告+15000字论文+答辩ppt)](https://github.com/codegitpro/sportsHealth) | https://github.com/codegitpro/sportsHealth                   |
 | 278  | [基于Springboot+Vue3的宠物社区系统(源代码+数据库+开题报告+任务书+19000字论文+答辩ppt)](https://github.com/codegitpro/petCommunity) | https://github.com/codegitpro/petCommunity                   |
 | 279  | [基于SpringBoot+Vue3校园商户意见反馈系统(源代码+数据库+17000字论文+ppt)](https://github.com/codegitpro/campusMerchantsFeedback) | https://github.com/codegitpro/campusMerchantsFeedback        |
+| 280  | [基于SpringBoot+Vue3摄影分享预约系统带小程序(源代码+数据库+13000字论文+ppt)](https://github.com/codegitpro/photographySharing) | https://github.com/codegitpro/photographySharing             |
+| 281  | [基于Springcloud+Vue3的校园电子产品维修与配件电商平台带小程序(源代码+数据库)](https://github.com/codegitpro/schoolRepairMall) | https://github.com/codegitpro/schoolRepairMall               |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/codegitpro/carRental-public) | https://github.com/codegitpro/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/codegitpro/pms-public) | https://github.com/codegitpro/pms-public                     |
